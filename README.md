@@ -12,8 +12,8 @@ This file is an example of c++
 
 # Vector Usage
 
-In order to use the std::vector, one should `include <vector>`, and maybe use `use namespace std` if needed.
-
+1. In order to use the std::vector, one should `include <vector>`, and maybe use `use namespace std` if needed.
+2. vector::push_back is to add an element at the end of vector.
 
 [back to top](#contents)
 
